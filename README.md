@@ -13,7 +13,10 @@
 
 
 
-https://github.com/yn0212/Handwriting_Calculator_using_Teachable_machine/assets/105347300/8e3fc422-398c-447f-a872-540bfbc3f1cc
+
+https://github.com/yn0212/Handwriting_Calculator/assets/105347300/5ea8d99d-11cc-4f25-bedb-acb6e3de219f
+
+
 
 
 ---------------------------------------------------------
